@@ -1,4 +1,17 @@
-# pemrograman_mobile_RizalfahatrikNugraha
-Asallamuallaikum Wr.Wb 
-Sebelumnya mohon maaf pa pengumpulan tugas ini kurang lengkap karna keterbatasan saya pada saat ini mungkin untuk
-video demo pada ponselnyaa nanti saya akan menyusul di karnakan ponsel saya sedang rusak dan belum selesai,sebelumnya saya ucapkan terimakasih.
+# flutter_create_movie_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
